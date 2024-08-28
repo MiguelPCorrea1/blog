@@ -20,10 +20,10 @@
   background-color: rgb(100, 130, 173);
 }
 
-/* Current/active navbar link */
+/* Current/active navbar link
 .active {
   background-color: rgb(100, 130, 173);
-}
+}*/
 
 /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
 @media screen and (max-width: 500px) {
