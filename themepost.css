@@ -3,14 +3,14 @@ body {
   margin: 0px 0px 0px 0px;
 }
 
-/* Style the navigation bar */
+/* Style the navigation bar
 .navbar {
   width: 100%;
   background-color: rgb(127, 161, 195);
   overflow: auto;
 }
 
-/* Navbar links */
+/* Navbar links
 .navbar a {
   float: left;
   text-align: center;
@@ -20,7 +20,7 @@ body {
   font-size: 17px;
 }
 
-/* Navbar links on mouse-over */
+/* Navbar links on mouse-over
 .navbar a:hover {
   background-color: rgb(100, 130, 173);
 }
@@ -30,4 +30,4 @@ body {
     float: none;
     display: block;
   }
-}
+}*/
