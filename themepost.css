@@ -10,14 +10,14 @@ body {
 .left-side {
       flex: 1;
       background-color: rgb(245, 245, 237);
-      overflow-y: auto;
-      height: 2000vh;
+      overflow-y: scroll;
+      height: 100%;
 }
 
 .right-side {
       flex: 1;
-      overflow-x: hidden;
-      width: 200%;
+      overflow-x: auto;
+      width: 100%;
 }
 
 /*body {
