@@ -16,7 +16,7 @@ body {
 
 .right-side {
       flex: 1;
-      overflow-x: auto;
+      overflow-x: scroll;
       width: 2000;
 }
 
