@@ -1,4 +1,24 @@
 body {
+      margin: 0;
+}
+
+.split-screen {
+      height: 100vh;
+      display: flex;
+}
+
+.left-side {
+      flex: 1;
+      background-color: rgb(245, 245, 237);
+      overflow-y: auto;
+}
+
+.right-side {
+       flex: 1;
+       overflow-x: auto;
+}
+
+/*body {
   background-color: rgb(245, 245, 237);
   margin: 0px 0px 0px 0px;
 }
