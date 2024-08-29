@@ -16,8 +16,8 @@ body {
 
 .right-side {
       flex: 1;
-      overflow-x: scroll;
-      width: 2000vh;
+      overflow-x: hidden;
+      width: 200%;
 }
 
 /*body {
