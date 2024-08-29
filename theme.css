@@ -3,14 +3,16 @@ body {
   margin: 0px 0px 0px 0px;
 }
 
-/* Style the navigation bar */
+.Name {
+  margin-left: 414px
+}
+
 .navbar {
   width: 100%;
   background-color: rgb(127, 161, 195);
   overflow: auto;
 }
 
-/* Navbar links */
 .navbar a {
   float: left;
   text-align: center;
@@ -20,15 +22,9 @@ body {
   font-size: 17px;
 }
 
-/* Navbar links on mouse-over */
 .navbar a:hover {
   background-color: rgb(100, 130, 173);
 }
-
-/* Current/active navbar link
-.active {
-  background-color: rgb(100, 130, 173);
-}*/
 
 /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
 @media screen and (max-width: 500px) {
