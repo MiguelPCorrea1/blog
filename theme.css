@@ -26,3 +26,16 @@ body {
   text-align: bottom;
   background-color: rgb(245, 245, 237);
 }
+
+.grid-item:hover {
+   animation: key_frame_name animation_time repetition;
+}
+
+@keyframes key_frame_name {
+   0% {
+      transform: rotate(0deg);
+   }
+   100% {
+      transform: rotate(10deg);
+   }
+}
