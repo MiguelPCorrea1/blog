@@ -27,17 +27,13 @@ body {
   background-color: rgb(245, 245, 237);
 }
 
-.grid-item:hover {
-   animation: key_frame_name animation_time repetition;
-}
-
-@keyframes key_frame_name {
-   0% {
-      transform: rotate(0deg);
-   }
-   100% {
-      transform: rotate(10deg);
-   }
+.grid-item:hover {animation: shaking 0.5s infinite;}
+  @keyframes shaking {
+  0% {transform: rotate(0deg);}
+  20% {transform: rotate(-4deg);}
+  50% {transform: rotate(0deg);}
+  70% {transform: rotate(4deg);}
+  100% {transform: rotate(0deg);}
 }
 
 @media screen and (max-width: 500px) {
