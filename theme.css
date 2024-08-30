@@ -20,7 +20,7 @@ body {
 }*/
 
 .grid-item {
-  border: 11px solid;
+  border: 10% solid;
   padding: 0px;
   column-gap: 11px
   row-gap: 11px
