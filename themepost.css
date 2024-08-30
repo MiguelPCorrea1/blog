@@ -2,6 +2,11 @@ body {
       margin: 0;
 }
 
+.smaller-name {
+      margin-top: 10;
+      margin-left: 10;
+}
+
 .split-screen {
       height: 100vh;
       display: flex;
