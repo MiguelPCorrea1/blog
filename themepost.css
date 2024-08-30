@@ -8,6 +8,7 @@ body {
 }
 
 .split-screen {
+      margin: 0, 0, 0, 0;
       height: 100%;
       display: flex;
 }
