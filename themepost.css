@@ -8,20 +8,20 @@ body {
 }
 
 .split-screen {
-      height: 100vh;
+      height: 100%;
       display: flex;
 }
 
 .left-side {
       flex: 1;
       background-color: rgb(245, 245, 237);
-      overflow-y: scroll;
       height: 100%;
+      width: 100%;
 }
 
 .right-side {
       flex: 1;
-      overflow-x: auto;
+      height: 100%;
       width: 100%;
 }
 
