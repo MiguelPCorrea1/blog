@@ -9,23 +9,18 @@ body {
 
 .split-screen {
       margin: 0, 0, 0, 0;
-      height: 100%;
       display: flex;
 }
 
 .left-side {
       margin: 0, 0, 0, 0;
       flex: 1;
-      background-color: rgb(245, 245, 237);
-      height: 100%;
-      width: 100%;
+      background-color: rgb(245, 245, 237)
 }
 
 .right-side {
       margin: 0, 0, 0, 0;
       flex: 1;
-      height: 100%;
-      width: 100%;
 }
 
 /*body {
