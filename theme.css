@@ -40,3 +40,7 @@ body {
     display: block;
   }
 }
+
+div {
+  column-rule-color: rgb(245, 245, 237);
+}
