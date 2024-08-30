@@ -39,3 +39,10 @@ body {
       transform: rotate(10deg);
    }
 }
+
+@media screen and (max-width: 500px) {
+  .grid-item {
+    float: none;
+    display: block;
+  }
+}
