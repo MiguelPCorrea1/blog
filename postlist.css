@@ -60,7 +60,7 @@ a:active {
 
 .content .post .post-image {
   width: 20%;
-  height: 100%;
+  height: auto;
   padding-left: 15px;
   float: left;
 }
