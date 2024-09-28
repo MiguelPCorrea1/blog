@@ -60,12 +60,12 @@ h2 {
   width: 40%;/*300*/
   margin-left: 10px;
   margin-right: 10px;
+  margin-bottom: 0px;
   display: inline-block;
   background: #fdfdfd;
   border-radius: 20px;
   padding-top: 30px;
-  padding-bottom: 50px;
-  background: #fdfdfd;
+  padding-bottom: 40px;
   box-shadow: 6px 8px #000;
   stroke: #000;
   border: solid black 5px;
