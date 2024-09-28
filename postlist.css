@@ -59,8 +59,8 @@ a:active {
 }
 
 .content .post .post-image {
-  width: auto;
   height: 260px;
+  width: auto;
   padding-left: 15px;
   float: left;
 }
