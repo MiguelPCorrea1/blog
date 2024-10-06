@@ -84,7 +84,7 @@ body::after {
     background: #424242;
     color: #fdfdfd;
     height: 80px;
-    position: absolute;
+    position: flex;
   }
   
   .footer .footer-bottom {
