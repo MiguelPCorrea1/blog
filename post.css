@@ -1,14 +1,7 @@
 body {
     background-color: #FFFF00 /*#229799 rgb(30,74,169) #f5f54b*/;
     margin: 0px 0px 0px 0px;
-    position: relative;
   }
-
-body::after {
-  content: '';
-  display: block;
-  height: 80px;
-}
   
   h1 {
     text-align: center;
