@@ -64,7 +64,6 @@ body {
   }
 
   .text {
-    display: block;
     font-family: Public Sans;
     font-size: 20px;
     color: black;
