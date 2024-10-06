@@ -93,7 +93,7 @@ body::after {
     height: 50px;
     width: 100%;
     text-align: center;
-    position: flex;
+    position: absolute;
     bottom: 0px;
     left: 0px;
     padding-top: 20px;
