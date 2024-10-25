@@ -49,7 +49,7 @@ a:active {
 .content .post {
   width: 90%;
   height: 270px;
-  paddig-bottom: 30px;
+  margin-bottom: 30px;
   margin: 10px auto;
   border-radius: 5px;
   background: #fdfdfd;
