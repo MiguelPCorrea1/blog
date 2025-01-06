@@ -1,8 +1,8 @@
 $(document).ready(function(){
   $('.post-wrapper').slick({
-    slidesToShow: 2,
-    slidesToScroll: 0,
-    autoplay: false,
+    slidesToShow: 4,
+    slidesToScroll: 3,
+    autoplay: true,
     dots: false,
     autoplaySpeed: 2000,
     nextArrow: $('.next'),
