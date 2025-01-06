@@ -104,8 +104,8 @@ h2 {
 }
 
 .post-slider .post-wrapper {
-  width: 34%;
-  height: 80%;/*350*/
+  width: 80%; /*34%*/
+  height: 60%;/*350*/
   margin: 0px auto;
   border: 0px dashed;
   overflow: hidden;
