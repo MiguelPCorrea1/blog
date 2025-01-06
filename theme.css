@@ -138,7 +138,7 @@ h2 {
 }
 
 .slick-prev {
-  background: #384B70;
+  background: #F5F5F5;
   border: none;
   position: absolute;
   top: 500px;
@@ -149,7 +149,7 @@ h2 {
 }
 
 .slick-next {
-  background: #384B70;
+  background: #F5F5F5;
   border: none;
   position: absolute;
   top: 500px;
