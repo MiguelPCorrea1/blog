@@ -1,13 +1,5 @@
-/*#05264d*/
-/*#bb2025*/
-/*#00b5eb*/
-/*#e32624*/
-/*#f7f8f8*/
-/*#bbbbb8*/
-/*  background: linear-gradient(180deg, rgba(187,187,184,1) 0%, rgba(247,248,248,1) 40%, rgba(247,248,248,1) 60%, rgba(187,187,184,1) 100%);*/
-
 body {
-  background-color: #384B70 /*#3EC70B #26125b*/;
+  background-color: #D9DFC6;
   margin: 0px 0px 0px 0px;
 }
 
@@ -42,14 +34,16 @@ h2 {
 }
 
 .Name {
-  margin-top: 20px;
-  margin-bottom: 0px;
-  width: 100%;
-  background: transparent;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 70%;
+  height: auto;
 }
 
 .topbar {
   display: flex;
+  background: #F5F5F5;
+  box-shadow: 0px 2px #929292;
 }
 
 .topnav {
@@ -63,9 +57,6 @@ h2 {
   margin-top: 5.5%;
   background: #10182F;
   border-radius: 6px;
-
-/*x1356 y652*/
-
   text-align: center;
   background: #F5F5F5;
 }
@@ -74,13 +65,11 @@ h2 {
   display: block;
   padding-left: 16%;
   padding-right: 16%;
-
   border-bottom: 0px solid transparent;
-	height: 10%;
-	width: auto;
-
+  height: 10%;
+  width: auto;
   text-align: center;
-  color: #bb2025;
+  color: #000000;
   text-decoration: none;
   font-size: 120%;
   font-family: Public Sans;
@@ -90,7 +79,8 @@ h2 {
 }
 
 .topnav a:hover {
-  color: #9b171c;
+  border-radius: 6px;
+  background: #e6e6e6;
 }
 
 
@@ -104,25 +94,24 @@ h2 {
 }
 
 .post-slider .post-wrapper {
-  width: 80%; /*34%*/
-  height: 60%;/*350*/
+  width: 80%;
+  height: 60%;
   margin: 0px auto;
   border: 0px dashed;
   overflow: hidden;
 }
 
 .post-slider .post-wrapper .post {
-  height: 70%;/*350*/
-  width: 40%;/*300*/
+  height: 70%;
+  width: 40%;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
   display: inline-block;
-  background: #fdfdfd;
+  background: #D9DFC6;
   border-radius: 20px;
   padding-top: 20px;
   padding-bottom: 30px;
-  /*box-shadow: 6px 8px #000;*/
   stroke: #000;
   border: solid black 5px;
 }
@@ -138,24 +127,24 @@ h2 {
 }
 
 .slick-prev {
-  background: #384B70;
+  background: #D9DFC6;
   border: none;
   position: absolute;
   top: 500px;
   left: 100px;
   font-size: 2em;
-  color: #F5F5F5 /*rgb(245, 245, 237)*/;
+  color: #000000;
   cursor: pointer;
 }
 
 .slick-next {
-  background: #384B70;
+  background: #D9DFC6;
   border: none;
   position: absolute;
   top: 500px;
   right: 100px;
   font-size: 2em;
-  color: #F5F5F5;
+  color: #000000;
   cursor: pointer;
 }
 
@@ -166,7 +155,7 @@ h2 {
     max-width: 100%;
     width: 100%;
     margin-top: 2.5%;
-    background: #10182F;
+    background: #7D7C7C;
     border-top-right-radius: 6px;
     border-top-left-radius: 6px;
   }
@@ -194,7 +183,7 @@ h2 {
     margin-bottom: 10px;
     margin-right: 5%;
     text-decoration: none;
-    color: #bfbfbf;
+    color: #D9DFC6;
   }
   .footer-col a:hover {
     color: #fff;
