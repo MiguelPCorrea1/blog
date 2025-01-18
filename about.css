@@ -83,6 +83,7 @@ h2 {
   }
 
   .about-me-box {
+    display: incline-block;
     height: 40%;
     width: 70%;
     border-radius: 25px;
