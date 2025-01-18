@@ -104,8 +104,9 @@ h2 {
 .content .post .post-image {
   height: 270px;
   width: auto;
-  padding-left: 15px;
+  padding-left: 0px;
   float: left;
+  border-radius: 15px 0px 0px 15px;
 }
 
 .post-title {
