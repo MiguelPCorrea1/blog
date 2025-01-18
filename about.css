@@ -73,6 +73,13 @@ h2 {
   line-height: 300%;
 }
 
+  .Photo {
+    height: 40%;
+    width: auto;
+    border-radius: 25px;
+    border: solid black 5px;
+  }
+
   .about-me-box {
     height: 40%;
     width: 70%;
