@@ -74,6 +74,7 @@ h2 {
 }
 
   .Photo-box {
+    display: relative;
   }
 
   .Photo {
@@ -83,7 +84,7 @@ h2 {
   }
 
   .about-me-box {
-    display: incline-block;
+    display: relative;
     height: 40%;
     width: 70%;
     border-radius: 25px;
