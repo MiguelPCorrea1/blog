@@ -74,12 +74,10 @@ h2 {
 }
 
   .Photo-box {
-    height:;
+    height: 40%;
   }
 
   .Photo {
-    height: 40%;
-    width: auto;
     border-radius: 25px;
     border: solid black 5px;
   }
