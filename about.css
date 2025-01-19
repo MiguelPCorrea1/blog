@@ -76,6 +76,7 @@ h2 {
   .content {
     display: flex;
     padding-top: 5%;
+    height: 40vh;
   }
 
   .Photo-box {
