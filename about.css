@@ -76,22 +76,24 @@ h2 {
   .content {
     display: flex;
     padding-top: 5%;
-    height: 40vh;
   }
 
   .Photo-box {
     display: relative;
     margin-right: 2vw;
     margin-left: auto;
+    height: 40vh;
   }
 
   .Photo {
     border-radius: 25px;
     border: solid black 5px;
+    height: 40vh;
   }
 
   .about-me-box {
     display: relative;
+    height: 40vh;
     width: 70%;
     border-radius: 25px;
     border: solid black 5px;
