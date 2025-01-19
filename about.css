@@ -80,7 +80,7 @@ h2 {
 
   .Photo-box {
     display: relative;
-    margin-right: 2vw;
+    margin-right: 2%;
     margin-left: auto;
   }
 
@@ -99,7 +99,7 @@ h2 {
     border: solid black 5px;
     background-color: #fdfdfd;
     margin-right: auto;
-    margin-left: 2vw;
+    margin-left: 2%;
     margin-bottom: 0%;
     padding: 1%;
   }
