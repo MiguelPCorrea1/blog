@@ -73,6 +73,10 @@ h2 {
   line-height: 300%;
 }
 
+  .content {
+    display: flex;
+  }
+
   .Photo-box {
     display: relative;
   }
