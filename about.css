@@ -87,7 +87,7 @@ h2 {
   .Photo {
     border-radius: 25px;
     border: solid black 5px;
-    height: 40%;
+    height: auto;
     width: 40%;
   }
 
