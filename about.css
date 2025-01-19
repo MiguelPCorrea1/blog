@@ -88,12 +88,13 @@ h2 {
   .Photo {
     border-radius: 25px;
     border: solid black 5px;
-    height: 40vh;
+    height: 40%;
+    width: 30%;
   }
 
   .about-me-box {
     display: relative;
-    height: 40vh;
+    height: 40%;
     width: 70%;
     border-radius: 25px;
     border: solid black 5px;
