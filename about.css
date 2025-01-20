@@ -82,7 +82,7 @@ h2 {
 
   .Photo {
     display: block;
-    padding-right: 5%;
+    margin-right: 5%;
     border-radius: 25px;
     border: solid black 5px;
     height: auto;
