@@ -92,7 +92,7 @@ h2 {
 
   .about-me-box {
     display: block;
-    width: 90%;
+    width: 100%;
     border-radius: 25px;
     border: solid black 5px;
     background-color: #fdfdfd;
