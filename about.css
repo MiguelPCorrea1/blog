@@ -81,7 +81,10 @@ h2 {
   }
 
   .Photo-box {
-    margin: 0px;
+    margin: 0%;
+    padding: 0%;
+    width: 40%;
+    height: auto;
   }
 
   .Photo {
