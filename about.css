@@ -82,12 +82,11 @@ h2 {
 
   .Photo {
     display: block;
-    width: 250px;
     margin-right: 100px;
     border-radius: 25px;
     border: solid black 5px;
     height: auto;
-    width: 40%;
+    width: 20%;
     margin-right: 2px;
   }
 
