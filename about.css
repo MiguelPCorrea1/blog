@@ -79,7 +79,6 @@ h2 {
   }
 
   .Photo-box {
-    display: relative;
     padding-right: 2%;
     padding-left: auto;
   }
@@ -92,7 +91,6 @@ h2 {
   }
 
   .about-me-box {
-    display: relative;
     height: 40%;
     width: 70%;
     border-radius: 25px;
