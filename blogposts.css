@@ -128,9 +128,11 @@ h2 {
 }
 
 .preview-text {
-  font-family: public-sans-text;
-  color: black;
-  padding-left: 320px;
+    font-family: Public Sans;
+    font-size: 15px;
+    color: black;
+    line-height: 1.8;
+    padding-left: 320px;
 }
 
   .footer {
