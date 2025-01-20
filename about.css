@@ -79,15 +79,14 @@ h2 {
   }
 
   .Photo-box {
-    padding-right: 2%;
-    margin-left: 0px;
+    padding-right: 0%;
   }
 
   .Photo {
     border-radius: 25px;
     border: solid black 5px;
     height: auto;
-    width: 40%;
+    width: 20%;
   }
 
   .about-me-box {
