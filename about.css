@@ -87,6 +87,7 @@ h2 {
     border: solid black 5px;
     height: auto;
     width: 40%;
+    margin-right: 2px;
   }
 
   .about-me-box {
