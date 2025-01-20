@@ -82,7 +82,7 @@ h2 {
 
   .Photo {
     display: block;
-    margin-right: 5%;
+    margin-right: 100px;
     border-radius: 25px;
     border: solid black 5px;
     height: auto;
@@ -92,7 +92,7 @@ h2 {
 
   .about-me-box {
     display: block;
-    width: 80%;
+    width: 90%;
     border-radius: 25px;
     border: solid black 5px;
     background-color: #fdfdfd;
